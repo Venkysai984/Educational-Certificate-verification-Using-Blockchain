@@ -1,1 +1,2 @@
 # Educational-Certificate-verification-Using-Blockchain
+This project is built using the Blockchain Technology .Blockchain stores the certificate in digital form coming to the process of proposed system firstly a hash value for the certificate is generated which is unique and it happens when we save the certificate. This will be stored as transaction in the block this process is done by SHA algorithm.This block is verified using members of block chain Acceptance or reject are based on consensus algorithm. 
